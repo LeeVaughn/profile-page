@@ -77,12 +77,12 @@ header .profile-image:hover {
   transform: scale(1.25) rotate(360deg);
 }
 #projects {
-  background: url('images/projects.jpg') no-repeat top center;
+  background: url('images/projects.jpg') no-repeat fixed center;
   background-size: cover;
   overflow: hidden;
 }
 #interests {
-  background: url('images/interests.jpg') no-repeat top center;
+  background: url('images/interests.jpg') no-repeat fixed center;
   background-size: cover;
   overflow: hidden;
 }
